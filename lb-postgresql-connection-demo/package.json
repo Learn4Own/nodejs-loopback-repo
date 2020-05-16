@@ -1,5 +1,5 @@
 {
-  "name": "lb-postgresql-connection-demo",
+  "name": "lb-pgsql-connection-demo",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -31,5 +31,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "lb-postgresql-connection-demo"
+  "description": "lb-pgsql-connection-demo"
 }

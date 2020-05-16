@@ -1,4 +1,4 @@
-# lb-postgresql-connection-demo
+# lb-pgsql-connection-demo
 
 
 
@@ -19,12 +19,12 @@ Open Integrated terminal from 'View-> Terminal' to execute commands.
 Step-3  :
 Create Project with command and complete all steps: 
 
-cmd> lb lb-postgresql-connection-demo
+cmd> lb lb-pgsql-connection-demo
 
-? What's the name of your application? lb-postgresql-connection-demo
-? Enter name of the directory to contain the project: lb-postgresql-connection-demo
-   create lb-postgresql-connection-demo/
-     info change the working directory to lb-postgresql-connection-demo
+? What's the name of your application? lb-pgsql-connection-demo
+? Enter name of the directory to contain the project: lb-pgsql-connection-demo
+   create lb-pgsql-connection-demo/
+     info change the working directory to lb-pgsql-connection-demo
 
 ? Which version of LoopBack would you like to use? 3.x (current)
 ? What kind of application do you have in mind? api-server (A LoopBack API server with local User auth)
@@ -35,7 +35,7 @@ Generating .yo-rc.json
 Step-4  :
 Change directory to your app
 
-cmd> cd lb-postgresql-connection-demo
+cmd> cd lb-pgsql-connection-demo
 
 
 
