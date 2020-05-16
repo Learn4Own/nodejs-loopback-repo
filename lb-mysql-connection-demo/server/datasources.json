@@ -1,0 +1,12 @@
+{
+  "mySqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "lb_mysql_connection_demo_db",
+    "password": "XXXXXX",
+    "name": "mySqlDs",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

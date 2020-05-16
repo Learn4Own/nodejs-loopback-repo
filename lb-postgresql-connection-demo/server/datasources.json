@@ -1,0 +1,12 @@
+{
+  "postgreSqlDs": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "lb_pg-connection_demo_db",
+    "password": "XXXXXX",
+    "name": "postgreSqlDs",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
